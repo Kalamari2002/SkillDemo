@@ -13,6 +13,6 @@ public class NameFinderTester {
 
     @Test
     public void findJoao(){
-        assertTrue(finder.FindName(names, "Jose"));
+        assertTrue(finder.FindName(names, "L"));
     }
 }
